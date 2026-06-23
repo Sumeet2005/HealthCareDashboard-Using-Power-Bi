@@ -5,7 +5,7 @@ An interactive Healthcare Analytics Dashboard developed using Power BI to analyz
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Features
 - KPI Cards for Total Billing, Average Billing, Pending Payments, and Patient Count
